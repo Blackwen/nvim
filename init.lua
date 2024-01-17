@@ -8,6 +8,7 @@ require("plugin.lsp-kotlin")
 require("plugin.conform")
 require("plugin.treesitter")
 require("plugin.telescope")
+require("plugin.bookmark")
 -- require("plugin.autopair")
 -- 插件,LSP
 

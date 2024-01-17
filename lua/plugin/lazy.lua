@@ -50,6 +50,10 @@ require("lazy").setup({
 
 	"nvim-lua/plenary.nvim",
 
+	"mg979/vim-visual-multi",
+
+	"tomasky/bookmarks.nvim",
+
 	{
 		"windwp/nvim-autopairs",
 		event = "InsertEnter",
