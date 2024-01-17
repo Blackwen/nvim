@@ -14,4 +14,6 @@ keymap.set("n", "<leader>e", "<cmd>NvimTreeToggle<cr>")
 keymap.set("i", "fj", "<Esc>")
 -- 退出插入模式
 
-keymap.set("n", "<leader>f", "<cmd>Telescope fd<cr>")
+local builtin = require("telescope.builtin")
+vim.keymap.set("n", "<leader>f", builtin.find_files, {})
+vim.keymap.set("n", "<leader>F", builtin.buffers, {})
