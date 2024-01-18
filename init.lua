@@ -9,9 +9,8 @@ require("plugin.conform")
 require("plugin.treesitter")
 require("plugin.telescope")
 require("plugin.bookmark")
--- require("plugin.autopair")
+require("plugin.nvim-cmp")
 -- 插件,LSP
-
 require("config.base")
 -- 基础配置
 

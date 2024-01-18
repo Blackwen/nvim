@@ -1,5 +1,14 @@
 fun main() {
-		val name123: String = "A"
-		val name123: String = "A"
-		val name123: String = "A"
+		
+		patLog()
+}
+
+fun patLog() {
+		println("Hi")
+}
+
+val a: String = "./"
+
+fun main() {
+		println(a)
 }
