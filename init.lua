@@ -10,6 +10,7 @@ require("plugin.treesitter")
 require("plugin.telescope")
 require("plugin.bookmark")
 require("plugin.nvim-cmp")
+require("plugin.gitsigns")
 -- 插件,LSP
 require("config.base")
 -- 基础配置

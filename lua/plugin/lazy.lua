@@ -48,6 +48,8 @@ require("lazy").setup({
 
 	"tomasky/bookmarks.nvim",
 
+	"lewis6991/gitsigns.nvim",
+
 	{
 		"windwp/nvim-autopairs",
 		event = "InsertEnter",
