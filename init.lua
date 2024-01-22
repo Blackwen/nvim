@@ -1,16 +1,17 @@
-require("plugin.lazy")
-require("plugin.nvim-tree")
-require("plugin.lualine")
+require("plugin.lazy") -- 插件
+require("plugin.nvim-tree") -- 文件树
+require("plugin.lualine") -- 状态条
 require("plugin.mason")
 require("plugin.lspconfig")
 require("plugin.lsp-lua")
 require("plugin.lsp-kotlin")
 require("plugin.conform")
+-- 补全
 require("plugin.treesitter")
 require("plugin.telescope")
-require("plugin.bookmark")
+require("plugin.bookmark") -- 书签
 require("plugin.nvim-cmp")
-require("plugin.gitsigns")
+require("plugin.gitsigns") -- git 状态
 -- 插件,LSP
 require("config.base")
 -- 基础配置
