@@ -52,6 +52,10 @@ require("lazy").setup({
 
 	"akinsho/bufferline.nvim",
 
+	"lukas-reineke/indent-blankline.nvim",
+	main = "ibl",
+	opts = {},
+
 	{
 		"windwp/nvim-autopairs",
 		event = "InsertEnter",

@@ -7,6 +7,7 @@ require("plugin.lsp-lua")
 require("plugin.lsp-kotlin")
 require("plugin.conform")
 require("plugin.bufferline")
+require("plugin.blankline")
 -- 补全
 require("plugin.treesitter")
 require("plugin.telescope")
