@@ -52,6 +52,8 @@ require("lazy").setup({
 
 	"akinsho/bufferline.nvim",
 
+	"vladdoster/remember.nvim",
+
 	"lukas-reineke/indent-blankline.nvim",
 	main = "ibl",
 	opts = {},

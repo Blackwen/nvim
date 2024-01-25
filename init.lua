@@ -8,6 +8,7 @@ require("plugin.lsp-kotlin")
 require("plugin.conform")
 require("plugin.bufferline")
 require("plugin.blankline")
+require("plugin.remember")
 -- 补全
 require("plugin.treesitter")
 require("plugin.telescope")
