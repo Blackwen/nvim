@@ -56,6 +56,8 @@ require("lazy").setup({
 
 	"rcarriga/nvim-notify",
 
+	"is0n/jaq-nvim",
+
 	"lukas-reineke/indent-blankline.nvim",
 	main = "ibl",
 	opts = {},
