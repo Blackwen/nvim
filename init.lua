@@ -15,6 +15,7 @@ require("plugin.bookmark") -- 书签
 require("plugin.nvim-cmp")
 require("plugin.gitsigns") -- git 状态
 require("plugin.notify")
+require("plugin.jaq")
 -- 插件,LSP
 require("config.base")
 -- 基础配置
