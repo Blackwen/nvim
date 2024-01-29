@@ -9,12 +9,12 @@ require("plugin.conform")
 require("plugin.bufferline")
 require("plugin.blankline")
 require("plugin.remember")
--- 补全
 require("plugin.treesitter")
 require("plugin.telescope")
 require("plugin.bookmark") -- 书签
 require("plugin.nvim-cmp")
 require("plugin.gitsigns") -- git 状态
+require("plugin.notify")
 -- 插件,LSP
 require("config.base")
 -- 基础配置
