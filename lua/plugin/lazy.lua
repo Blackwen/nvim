@@ -16,6 +16,8 @@ require("lazy").setup({
 
 	"neanias/everforest-nvim",
 
+	"ellisonleao/gruvbox.nvim",
+
 	"nvim-lualine/lualine.nvim",
 
 	"nvim-tree/nvim-tree.lua",
@@ -79,4 +81,5 @@ require("lazy").setup({
 		build = ":TSUpdate",
 	},
 })
+-- vim.cmd("colorscheme gruvbox")
 vim.cmd("colorscheme everforest")
