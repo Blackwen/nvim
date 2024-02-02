@@ -16,6 +16,7 @@ require("plugin.nvim-cmp")
 require("plugin.gitsigns") -- git 状态
 require("plugin.notify")
 require("plugin.jaq")
+require("plugin.FTerm")
 -- 插件,LSP
 require("config.base")
 -- 基础配置

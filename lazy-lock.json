@@ -1,4 +1,5 @@
 {
+  "FTerm.nvim": { "branch": "master", "commit": "d1320892cc2ebab472935242d9d992a2c9570180" },
   "LuaSnip": { "branch": "master", "commit": "82108e7e31cc6fc223cc5df5cae6d89f70bb199f" },
   "bookmarks.nvim": { "branch": "main", "commit": "db4899640d7c2f9d33df7051b8c0ba67645bb23e" },
   "bufferline.nvim": { "branch": "main", "commit": "167c0b8c5340972a249068c1a5b3edf57806d6d3" },
