@@ -24,6 +24,8 @@ require("lazy").setup({
 
 	"nvim-tree/nvim-web-devicons",
 
+	"numToStr/FTerm.nvim",
+
 	"williamboman/mason.nvim",
 
 	"williamboman/mason-lspconfig.nvim",
