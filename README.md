@@ -14,6 +14,6 @@
 
 Git 更改: [gitsigns.nvim]()
 
-通知[notify]()
+通知: [notify]()
 
-调试[jaq]()
+调试: [jaq]()
