@@ -36,6 +36,8 @@ require("lazy").setup({
 
 	"stevearc/conform.nvim",
 
+	"edluffy/hologram.nvim",
+
 	"hrsh7th/nvim-cmp",
 	"hrsh7th/cmp-nvim-lsp",
 	"hrsh7th/cmp-nvim-lua",
