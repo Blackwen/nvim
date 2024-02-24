@@ -38,6 +38,10 @@ require("lazy").setup({
 
 	"edluffy/hologram.nvim",
 
+	"HiPhish/nvim-ts-rainbow2",
+
+	"notomo/gesture.nvim",
+
 	"hrsh7th/nvim-cmp",
 	"hrsh7th/cmp-nvim-lsp",
 	"hrsh7th/cmp-nvim-lua",
@@ -85,5 +89,5 @@ require("lazy").setup({
 		build = ":TSUpdate",
 	},
 })
--- vim.cmd("colorscheme gruvbox")
-vim.cmd("colorscheme everforest")
+vim.cmd("colorscheme gruvbox")
+-- vim.cmd("colorscheme everforest")

@@ -1,1 +1,1 @@
-require("notify")("My super important message")
+require("notify")

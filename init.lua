@@ -18,6 +18,7 @@ require("plugin.notify")
 require("plugin.jaq")
 require("plugin.FTerm")
 require("plugin.hologram")
+require("plugin.gesture")
 -- 插件,LSP
 require("config.base")
 -- 基础配置
