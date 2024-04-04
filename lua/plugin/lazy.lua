@@ -68,6 +68,8 @@ require("lazy").setup({
 
 	"is0n/jaq-nvim",
 
+	"bratpeki/truedark-vim",
+
 	"lukas-reineke/indent-blankline.nvim",
 	main = "ibl",
 	opts = {},
@@ -89,4 +91,4 @@ require("lazy").setup({
 		build = ":TSUpdate",
 	},
 })
-vim.cmd("colorscheme everforest")
+-- vim.cmd("colorscheme truedark")

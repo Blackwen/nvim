@@ -11,7 +11,7 @@ keymap.set("n", "<leader>wq", "<cmd>wq<cr>")
 -- 保存并退出
 keymap.set("n", "<leader>e", "<cmd>NvimTreeToggle<cr>")
 -- 打开文件树
-keymap.set("i", "fds", "<Esc>")
+keymap.set("i", "fj", "<Esc>")
 -- 退出插入模式
 
 local builtin = require("telescope.builtin")
